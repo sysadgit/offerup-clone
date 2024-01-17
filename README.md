@@ -31,10 +31,10 @@ Our OfferUp clone app incorporates a powerful location-based search system, allo
 
 Our OfferUp clone app facilitates instant transactions with the Buy Now option. Buyers can quickly purchase the products they desire. This streamlines the buying process and provides a seamless user experience. 
 
-Feature Ads
+**Feature Ads**
 
 Sellers can highlight specific listings with the Feature Ads feature. This boosts visibility for sellers and ensures that their products get the attention they deserve. 
 
-Chat Option Like Facebook
+**Chat Option Like Facebook**
 
 Our OfferUp clone app includes a user-friendly chat option, similar to Facebook, enabling seamless communication between buyers and sellers. This feature allows negotiation, inquiries, and meetup arrangements within the app, ensuring a secure and convenient transaction process. 
