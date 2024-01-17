@@ -3,7 +3,7 @@ Offerup clone is a reliable online solution that enables the new ways to empower
 OfferUp Clone - GitHub Repository
 OfferUp clone is a robust and customizable classified software that caters to businesses in the online buy-sell marketplace industry. Inspired by the successful model of OfferUp, our solution allows you to infuse your unique ideas and features, enabling you to launch a distinctive product in the market. 
 
-OfferUp clone, developed by Trioangle Technologies, has successfully delivered top-notch products to more than 250 clients worldwide. Our commitment to providing exceptional service has been the driving force behind our client’s satisfaction and success. 
+“<a href="https://www.trioangle.com/offerup-clone/">Offerup clone</a>”, developed by Trioangle Technologies, has successfully delivered top-notch products to more than 250 clients worldwide. Our commitment to providing exceptional service has been the driving force behind our client’s satisfaction and success. 
 
 **Support**
 
@@ -38,3 +38,5 @@ Sellers can highlight specific listings with the Feature Ads feature. This boost
 **Chat Option Like Facebook**
 
 Our OfferUp clone app includes a user-friendly chat option, similar to Facebook, enabling seamless communication between buyers and sellers. This feature allows negotiation, inquiries, and meetup arrangements within the app, ensuring a secure and convenient transaction process. 
+
+
